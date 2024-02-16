@@ -6,7 +6,7 @@ users:
     
 # chain_id: 1
 # allow_new_validators: true
-# epoch_duration_secs: 86400
+epoch_duration_secs: 300
 # is_test: false
 # min_stake: 100000000000000
 # min_voting_threshold: 100000000000000
