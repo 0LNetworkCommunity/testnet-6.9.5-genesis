@@ -1,1 +1,1 @@
-# Testnet-6.9.5-Genesis
+# Testnet-6.9.6-Genesis
